@@ -1,0 +1,13 @@
+a. Test Results
+
+NO. OF GENERATIONS: 1000
+
+RUNTIME W/MULTITHREADING:
+1535 ms
+
+RUNTIME W/OUT MULTITHREADING:
+112472 ms
+
+b. Applying concurrency in the printGeneration method would theoretically 
+improve the speed of printing the next generations of cells, 
+reducing the execution runtime of the program.
